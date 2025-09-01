@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://flutter-netease-music-api-xi.vercel.app/:match*"
+    }
+  ]
+}
